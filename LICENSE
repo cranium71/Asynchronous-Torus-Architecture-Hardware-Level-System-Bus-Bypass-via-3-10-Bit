@@ -4,18 +4,32 @@ Copyright (c) 2026 Náfrádi, Levente. All Rights Reserved.
 Official Global Infrastructure (CERN Data Centre): https://zenodo.org
 
 1. PERMITTED NON-COMMERCIAL USE
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software, hardware architecture concepts, and associated documentation files, to study, test, simulate, and utilize the framework for strictly non-commercial, educational, independent research, and personal testing purposes. This technology is intentionally designed to be accessible, clear, and open for academic evaluation, including high school students, independent developers, and open-source hobbyists.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software,
+hardware architecture concepts, and associated documentation files, to study, test, simulate,
+and utilize the framework for strictly non-commercial, educational, independent research, and
+personal testing purposes. This technology is intentionally designed to be accessible, clear,
+and open for academic evaluation, including high school students, independent developers, and open-source hobbyists.
 
 2. COMMERCIAL USE RESTRICTIONS & MANDATORY CONTRIBUTIONS
-Any utilization of this study, software, C++ code, PowerShell deployment scripts, or underlying toroidal geometric architectures for commercial purposes, corporate implementation, industrial production, or direct/indirect financial gain is STRICTLY CONDITIONAL upon the following terms:
-- The commercial user is legally required to donate exactly 43% of all resulting gross revenues and profits directly to the United Nations (UN) to eliminate the global accumulation of resources and combat economic inequality.
-- Prior to any commercial, industrial, or corporate implementation, contacting the primary author (Náfrádi, Levente) is mandatory to obtain explicit authorization.
+Any utilization of this study, software, C++ code, PowerShell deployment scripts, or underlying
+toroidal geometric architectures for commercial purposes, corporate implementation, industrial
+production, or direct/indirect financial gain is STRICTLY CONDITIONAL upon the following terms:
+- The commercial user is legally required to donate exactly 43% of all resulting gross revenues
+and profits directly to the United Nations (UN) to eliminate the global accumulation of resources and combat economic inequality.
+- Prior to any commercial, industrial, or corporate implementation, contacting the primary author
+(Náfrádi, Levente) is mandatory to obtain explicit authorization.
 
 3. TERMINATION AND REVOCATION
-Failure to comply with the mandatory 43% United Nations donation term or failure to establish prior contact with the author shall result in the immediate, automatic, and retroactive revocation of all usage rights, licenses, and permissions granted under this text. Legal action will be pursued under international copyright and intellectual property frameworks.
+Failure to comply with the mandatory 43% United Nations donation term or failure to establish prior contact with
+the author shall result in the immediate, automatic, and retroactive revocation of all usage rights, licenses,
+and permissions granted under this text. Legal action will be pursued under international copyright and intellectual property frameworks.
 
 4. PERMANENT ATTRIBUTION
-All distributions, derivatives, or modifications of this architecture must retain the original copyright notice and the permanent link to the registered international repository: https://zenodo.org
+All distributions, derivatives, or modifications of this architecture must retain the original copyright
+notice and the permanent link to the registered international repository: https://zenodo.org
 
 5. DISCLAIMER OF LIABILITY (A FELELŐSÉG A FELHASZNÁLÓÉ)
-THE TECHNOLOGY AND ARCHITECTURE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE TECHNOLOGY OR THE USE OR OTHER DEALINGS IN THIS ARCHITECTURE. ALL RESPONSIBILITY AND LIABILITY FOR INTEGRATION, EXECUTION, AND COMPLIANCE SOLELY BELONG TO THE USER.
+THE TECHNOLOGY AND ARCHITECTURE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE TECHNOLOGY OR THE USE OR OTHER DEALINGS IN THIS ARCHITECTURE. 
+ALL RESPONSIBILITY AND LIABILITY FOR INTEGRATION, EXECUTION, AND COMPLIANCE SOLELY BELONG TO THE USER.
